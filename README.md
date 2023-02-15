@@ -40,7 +40,7 @@ refactor the current process in `main.py` to implement the interface for the cur
 You should not work on this refactoring for more than two hours. There is definitely more than 
 two hours of work here, so we don't expect you to hit all of these. Just make as much progress as possible!
 
-## Contributing Guidlines
+## Contributing Guidelines
 Making sure others can understand your changes and use your code is extremely important. So please:
 * Write [semantic commits](https://sparkbox.com/foundry/semantic_commit_messages) 
 with clear explanations of your changes
